@@ -7,7 +7,7 @@ IC Scripting Discord:
 https://discord.com/channels/357247482247380994/474639469916454922
 
 Recommended Addons:
-https://discord.com/channels/357247482247380994/474639469916454922/1337163227892809800 (or check #scripting pins)
+https://discord.com/channels/357247482247380994/474639469916454922/1337163227892809800 (or check [#scripting](https://discord.com/channels/357247482247380994/474639469916454922) pins)
 
 Verify your Addon versions:
 https://emmotes.github.io/script_addon_versions.html
