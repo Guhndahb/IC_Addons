@@ -3,7 +3,7 @@
 	"Version": "v0.1.0",
     "Includes" : "IC_Oi_IC_CloseNow_ImWarningYou_Includes.ahk",
     "Author" : "Guhndahb",
-    "Url" : "<Your url here>",
+    "Url" : "https://emmotes.github.io/script_addon_versions.html",
     "Info" : "Apply Tiamat directly to the CloseIC() function",
     "Dependencies" : [
         {
