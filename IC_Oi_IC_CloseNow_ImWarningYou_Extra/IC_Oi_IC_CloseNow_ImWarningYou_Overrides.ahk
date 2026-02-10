@@ -13,8 +13,12 @@ class IC_Oi_IC_CloseNow_ImWarningYou_SharedFunctions_Class extends IC_SharedFunc
         if ( string != "" )
             string := ": " . string
         g_SharedData.LoopString := "Closing IC" . string
-        ahkIcId := "ahk_exe " . g_userSettings[ "ExeName"]
+        ahkIcId := "ahk_exe " . g_userSettings["ExeName"]
         pid := g_SF.PID
+        if (!pid) {
+            Process, Exist, % g_userSettings["ExeName"]
+            pid := ErrorLevel
+        }       
         hwnd := WinExist( ahkIcId )
         if (hwnd) {
             SendMessage, 0x112, 0xF060,,, %ahkIcId%,,,, 10000 ; WinClose
