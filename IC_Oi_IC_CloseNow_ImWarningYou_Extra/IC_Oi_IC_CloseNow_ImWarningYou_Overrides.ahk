@@ -1,4 +1,4 @@
-class IC_Oi_IC_CloseNow_ImWarningYou_SharedFunctions_Class extends IC_BrivSharedFunctions_Class 
+class IC_Oi_IC_CloseNow_ImWarningYou_SharedFunctions_Class extends IC_SharedFunctions_Class 
 {
     ;===================================
     ;Functions for closing or opening IC
