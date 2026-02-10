@@ -1,6 +1,6 @@
 {
 	"Name":"Oi! IC! Close NOW! I'm Warning You!",
-	"Version": "v0.1.0",
+	"Version": "v0.2.0",
     "Includes" : "IC_Oi_IC_CloseNow_ImWarningYou_Includes.ahk",
     "Author" : "Guhndahb",
     "Url" : "https://github.com/Guhndahb/IC_Addons/tree/main/IC_Oi_IC_CloseNow_ImWarningYou_Extra",
@@ -8,7 +8,7 @@
     "Dependencies" : [
         {
             "Name":"IC Core",
-            "Version":"v0.1.0"
+            "Version":"v0.2.0"
         }
     ]
 }
